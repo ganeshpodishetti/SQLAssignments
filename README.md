@@ -1,2 +1,2 @@
-# Sql_Assignment
+# SQLAssignment
 SQL Assignmenst
